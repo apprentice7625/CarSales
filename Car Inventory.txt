@@ -1,0 +1,10 @@
+Volkswagen Polo (Diesel),£20000,9
+Jeep Avenger (Petrol),£26000,14
+
+Range Rover SV (Hybrid Petrol),£61000,5
+Vauxhall Frontera (Hybrid Petrol),£23000,13
+
+Peugeot E-208 (Electric),£24000,10
+Renault Twingo E-Tech (Electric),£28000,12
+BMW iX3 (Electric),£57000,16
+Mercedes-Benz CLA (Electric),£32000,11
